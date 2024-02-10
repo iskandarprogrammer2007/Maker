@@ -1,0 +1,21 @@
+.hero__left-btn:hover,.header__nav-contact-btn:hover{
+    border-color: var(--primary-color);
+    color: var(--primary-color);
+    background-color: var(--third-color);
+}
+
+.learn__more__btn:hover{
+    border: 1px solid transparent;
+    background-color: var(--primary-color);
+    color: var(--third-color);
+}
+
+.subscribe__btn:hover{
+    background-color: var(--third-color);
+    color: var(--footer-color);
+}
+
+.header__nav-item:hover{
+    color: var(--primary-color);
+    border-bottom: 2px solid var(--primary-color);
+}
